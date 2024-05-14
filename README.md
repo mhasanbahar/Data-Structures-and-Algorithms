@@ -1,8 +1,8 @@
 ### Patika da Veri Yapıları ve Algoritma bölüm sonu projeleri
 
- # Insertion-sort
+#### Insertion-sort
 
-# Merge-Sort
+#### Merge-Sort
 
-# Binary-Search-Tree
+#### Binary-Search-Tree
 
